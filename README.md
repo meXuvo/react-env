@@ -1,7 +1,7 @@
-#React with tailwindcss
-Empty project.
+##React with tailwindcss
+Starting React project envirnment.
 
-## Building and running on localhost
+# Building and running on localhost
 
 First install dependencies:
 
