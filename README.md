@@ -1,4 +1,4 @@
-##React with tailwindcss
+## React with tailwindcss
 Starting React project envirnment.
 
 # Building and running on localhost
